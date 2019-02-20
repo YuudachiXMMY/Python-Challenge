@@ -22,7 +22,7 @@ pos = html.rfind('<!--')
 pos_end = html.rfind('-->')
 tar = html[pos:pos_end]
 
-result = re.findall('[a-z][A-Z]{3}([a-z])[A-Z]{3}[a-z]' , tar)
+result = re.findall( '[a-z][A-Z]{3}([a-z])[A-Z]{3}[a-z]' , tar)
 
 print  ''.join(result)
 
