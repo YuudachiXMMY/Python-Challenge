@@ -13,7 +13,7 @@ http://www.pythonchallenge.com/pc/def/ocr.html
 import urllib2
 
 res = urllib2.urlopen('http://www.pythonchallenge.com/pc/def/ocr.html')
-html = str(res.read())
+html = res.read()
 res.close()
 
 pos = html.rfind('<!--')

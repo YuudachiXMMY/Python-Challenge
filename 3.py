@@ -8,12 +8,12 @@ http://www.pythonchallenge.com/pc/def/equality.html
 # Show time~~
 # Just find a low case letter surrounded by EXACTELY three upper case letters XXXD. E.g, in 'aBCDeFGHi', 'e' is the answer
 #
-# Here I will directly use the urlib to deal those characters, instead of viewing sourcee code through a browser XD.
+# Here I will directly use the urlib to deal those letters, instead of viewing sourcee code through a browser XD.
 
 import urllib2
 
 res = urllib2.urlopen('http://www.pythonchallenge.com/pc/def/equality.html')
-html = str(res.read())
+html = res.read()
 res.close()
 
 import re
