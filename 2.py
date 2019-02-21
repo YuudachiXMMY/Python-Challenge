@@ -4,7 +4,9 @@ http://www.pythonchallenge.com/pc/def/ocr.html
 '''
 
 # In this question, you could use a Browser to view the website's source code. And then you will find this:
-# <!-- find rare characters in the mess below: -->
+'''
+<!-- find rare characters in the mess below: -->
+'''
 # Just find the letters in the character sea
 # Show time~~
 #

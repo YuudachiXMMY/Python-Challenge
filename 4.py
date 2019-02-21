@@ -5,9 +5,13 @@ http://www.pythonchallenge.com/pc/def/linkedlist.php
 '''
 
 # In this question, you could use a Browser to view the website's source code. And then you will still find this:
-# <!-- urllib may help. DON'T TRY ALL NOTHINGS, since it will never end. 400 times is more than enough. -->
+'''
+<!-- urllib may help. DON'T TRY ALL NOTHINGS, since it will never end. 400 times is more than enough. -->
+'''
 # Really Cool. And the content got by clicking the photo is:
-# 'and the next nothing is 44827'
+'''
+and the next nothing is 44827
+'''
 # Now show time~~
 #
 # Here I will follow the advice by using the urlib XD.

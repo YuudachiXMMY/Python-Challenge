@@ -4,7 +4,9 @@ http://www.pythonchallenge.com/pc/def/equality.html
 '''
 
 # In this question, you could use a Browser to view the website's source code. And then you will still find a:
-# <!-- ...... -->
+'''
+<!-- ...... -->
+'''
 # Show time~~
 # Just find a low case letter surrounded by EXACTELY three upper case letters XXXD. E.g, in 'aBCDeFGHi', 'e' is the answer
 #
