@@ -68,8 +68,8 @@ it's in the air. look at the letters.
 '''
 oxygen
 '''
-# FYI, Just run the code and you'll find that the 'H' is written in 'o',
-# 'O' in 'X', 'C' in 'Y', 'K' in 'G', 'E' in 'E', and 'Y' in 'N'.
+# (FYI, Just run the code and you'll find that the 'H' is written in 'o',
+# 'O' in 'X', 'C' in 'Y', 'K' in 'G', 'E' in 'E', and 'Y' in 'N'.)
 
 '''
 # Answer

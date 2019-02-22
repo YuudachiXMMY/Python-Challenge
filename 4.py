@@ -35,9 +35,9 @@ def read(nothing):
         print 'Finally~'
         print html
     else:
-        # Finally, there might be a:
-        # 'list index out of range'
-        # Whatever, I don't wanna do this coding again. So if you know how to fix it, plz plz let me know orz.
+        # Finally, there might be a: 'list index out of range'
+        # Whatever, We get the ans and I don't wanna do this coding again.
+        # But if you know how to fix it, plz plz plz let me know orz.
         read(re.findall(tar,html)[-1])
 
 read(nothing)
