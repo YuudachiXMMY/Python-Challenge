@@ -3,7 +3,7 @@
 http://www.pythonchallenge.com/pc/def/channel.html
 '''
 
-# In this question, you could use a Browser to view the website's source code. And then you will still find the following:
+# In this question, you could use a Browser to view the website's source code. And then you will find the following:
 '''
 <!-- <-- zip -->
 
